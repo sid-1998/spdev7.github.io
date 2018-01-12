@@ -1,4 +1,4 @@
-body{
+/*body{
   background-image: url("")
 }
 #grad1 {
@@ -37,7 +37,7 @@ body {
 }
 
 /* Center website */
-.main {
+/*.main {
     max-width: 1000px;
     margin: auto;
 }
@@ -52,45 +52,45 @@ h1 {
 }
 
 /* Add padding BETWEEN each column (if you want) */
-.row,
+/*.row,
 .row > .column {
     padding: 8px;
 }
 
 /* Create four equal columns that floats next to each other */
-.column {
+/*.column {
     float: left;
     width: 25%;
 }
 
 /* Clear floats after rows */
-.row:after {
+/*.row:after {
     content: "";
     display: table;
     clear: both;
 }
 
 /* Content */
-.content {
+/*.content {
     background-color: white;
     padding: 10px;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media (max-width: 900px) {
+/*@media (max-width: 900px) {
     .column {
         width: 50%;
     }
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
     .column {
         width: 100%;
     }
 }
 /* Style all font awesome icons */
-.fa {
+/*.fa {
     border-top: 50%;
     padding: 20px;
     font-size: 30px;
@@ -101,34 +101,33 @@ h1 {
 }
 
 /* Add a hover effect if you want */
-.fa:hover {
+/*.fa:hover {
     opacity: 0.7;
 }
 
 /* Set a specific color for each brand */
 
 /* Facebook */
-.fa-facebook {
+/*.fa-facebook {
     background: #3B5998;
     color: white;
 }
 
 /* Twitter */
-.fa-twitter {
+/*.fa-twitter {
     background: #55ACEE;
     color: white;
 }
+*/
 /* ---- reset ---- */
 /* PARTICLE.JS */
 body {
   margin: 0;
-  font:normal 75% Arial, Helvetica, sans-serif;
+  padding: 0;
+  height: 100vh;
 }
 
-canvas {
-  display: block;
-  vertical-align: bottom;
-}
+
 
 /* ---- particles.js container ---- */
 
