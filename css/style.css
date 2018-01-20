@@ -52,8 +52,8 @@ font-family: 'Macondo', cursive;
 }
 #sp{
   position:absolute;
-  top: 85%;
-  left: 40%;
+  top: 40%;
+  left: 15%;
   margin-right:auto;
   margin-left:auto;
   border-radius: 50%;
