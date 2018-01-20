@@ -30,7 +30,7 @@ font-family: 'Macondo', cursive;
   margin-right:auto;
   margin-left:auto;
 }
-#hi{
+#hi,#img_1{
   font-family: 'Macondo', cursive;
   color:white;
   position:absolute;
@@ -57,4 +57,7 @@ font-family: 'Macondo', cursive;
   margin-right:auto;
   margin-left:auto;
   border-radius: 50%;
+}
+.smaller-image{
+  width:300px;
 }
