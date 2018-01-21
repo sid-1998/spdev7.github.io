@@ -1,6 +1,5 @@
 body{
-
-  margin:0;
+ margin:0;
   padding:0;
   background: #070707;
   height: 100vh;
@@ -60,4 +59,13 @@ font-family: 'Macondo', cursive;
 }
 .smaller-image{
   width:300px;
+}
+.text-font{
+  color:white;
+  font-family:'Macondo',cursive;
+  position:relative;
+
+}
+.container{
+  position:center;
 }
