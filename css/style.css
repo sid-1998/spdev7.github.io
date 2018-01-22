@@ -40,6 +40,15 @@ font-family: 'Macondo', cursive;
   margin-top:20px;
   padding-top:20px;
 }
+#link1{
+  font-family: 'Macondo', cursive;
+  color:white;
+  position:absolute;
+  top: 45%;
+  left: 40%;
+  margin-right:auto;
+  margin-left:auto;
+}
 #link{
   font-family: 'Macondo', cursive;
   color:white;
@@ -61,11 +70,16 @@ font-family: 'Macondo', cursive;
   width:300px;
 }
 .text-font{
+  font-size:30px;
   color:white;
   font-family:'Macondo',cursive;
-  position:relative;
-
 }
 .container{
   position:center;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
