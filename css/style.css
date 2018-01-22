@@ -59,12 +59,8 @@ font-family: 'Macondo', cursive;
   margin-left:auto;
 }
 #sp{
-  position:absolute;
-  top: 40%;
-  left: 15%;
-  margin-right:auto;
-  margin-left:auto;
-  border-radius: 50%;
+
+  border-radius: 75%;
 }
 .smaller-image{
   width:300px;
